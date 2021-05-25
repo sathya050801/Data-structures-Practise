@@ -1,2 +1,2 @@
-# datastructures
-## Practising and solving problems using datastrucutres.
+# Data structures
+## Practising and solving problems using data structures.
